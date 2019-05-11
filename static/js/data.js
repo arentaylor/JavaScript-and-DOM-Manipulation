@@ -170,6 +170,15 @@ var data = [{
     comments: "Upper atmosphere object moving south&#44 becoming stationary and later moving east at a high rate of speed."
   },
   {
+    datetime: "3/23/1980",
+    city: "brevard",
+    state: "nc",
+    country: "us",
+    shape: "blob",
+    durationMinutes: "4-6 hours",
+    comments: "Toe to toe, dancing very close."
+  },
+  {
     datetime: "1/1/2010",
     city: "national city",
     state: "ca",
@@ -213,6 +222,15 @@ var data = [{
     shape: "chevron",
     durationMinutes: "2 mins",
     comments: "New Years Eve Anomoly In Aspen Colorado"
+  },
+  {
+    datetime: "1/12/1982",
+    city: "anchorage",
+    state: "ak",
+    country: "us",
+    shape: "blob",
+    durationMinutes: "1-2 hours",
+    comments: "Barely breathing, almost comatose."
   },
   {
     datetime: "1/1/2010",
@@ -278,6 +296,15 @@ var data = [{
     comments: "Walking on Cordova westbound just before the Hilton.  Sun was setting so looked up to see if we could see any satellite reflection.  Sa"
   },
   {
+    datetime: "6/1/1998",
+    city: "sanford",
+    state: "nc",
+    country: "us",
+    shape: "light",
+    durationMinutes: "one minute",
+    comments: "Wall to wall, people hypnotized."
+  },
+  {
     datetime: "1/1/2010",
     city: "albuquerque",
     state: "nm",
@@ -321,6 +348,15 @@ var data = [{
     shape: "rectangle",
     durationMinutes: "10 seconds",
     comments: "A bright light in Phoenix hovered above houses in broad daylight&#44 then vanished"
+  },
+  {
+    datetime: "6/1/2003",
+    city: "chapel hill",
+    state: "nc",
+    country: "us",
+    shape: "light",
+    durationMinutes: "one minute",
+    comments: "And they're stepping lightly, hang each night in rapture."
   },
   {
     datetime: "1/2/2010",
@@ -422,6 +458,15 @@ var data = [{
     comments: "Thick bright light travels across southern California then disappears?"
   },
   {
+    datetime: "10/1/2006",
+    city: "raleigh",
+    state: "nc",
+    country: "us",
+    shape: "fab five freddie",
+    durationMinutes: "one minute",
+    comments: "Fab Five Freddie told me everybody's high."
+  },
+  {
     datetime: "1/4/2010",
     city: "ben wheeler",
     state: "tx",
@@ -474,6 +519,15 @@ var data = [{
     shape: "oval",
     durationMinutes: "10 seconds",
     comments: "One Oval Spining above Chula Vista"
+  },
+  {
+    datetime: "11/29/2009",
+    city: "sanford",
+    state: "nc",
+    country: "us",
+    shape: "Flashe' no do",
+    durationMinutes: "2 hours",
+    comments: "And you don't stop, sure shot."
   },
   {
     datetime: "1/5/2010",
@@ -618,6 +672,15 @@ var data = [{
     shape: "unknown",
     durationMinutes: "10-15 seconds",
     comments: "Four straight &#44horizontal lights on one 40-60&#39 structure&#44 150-200 ft in the air just above the tree line (Tomball TX)"
+  },
+  {
+    datetime: "2/24/2014",
+    city: "wilson",
+    state: "nc",
+    country: "us",
+    shape: "destiny",
+    durationMinutes: "only forever",
+    comments: "You go out at night, eatin' cars. You eat Cadillacs, Lincolns too, Mercury's and Subaru's."
   },
   {
     datetime: "1/8/2010",
