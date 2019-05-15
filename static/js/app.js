@@ -30,6 +30,5 @@ function clickSelect(){
     displayData(user_table);
 }
 
-// event listener to handle change and click
-// this may be the issue...data empties
+// event listener
 dateInputText.on("change", clickSelect)
